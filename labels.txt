@@ -1,0 +1,6 @@
+0 YEŞİL
+1 mavi
+2 sarı
+3 siyah
+4 pembe
+5 kırmızı
